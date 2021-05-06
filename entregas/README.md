@@ -1,3 +1,5 @@
 ### Entregas -- 7508 Sistemas Operativos
 
-> convertir_tmp.sh*
+```
+convertir_tmp.sh*
+```
